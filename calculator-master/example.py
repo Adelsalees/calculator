@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import Button
 
 root = Tk()
-root.title("claculator__25t")
+root.title("claculator")
 
 
 e = Entry(root, width=40,bg='black',fg = 'white', borderwidth=3)
